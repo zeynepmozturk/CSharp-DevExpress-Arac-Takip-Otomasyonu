@@ -7,7 +7,7 @@ Bu proje, araç takibi, fiş kontrolleri, pasif ve aktif araç takibi, kullanıc
 
 Görsel 
 
-Giriş Ekranı:
+
 ![image](https://github.com/user-attachments/assets/be4a0ff5-676e-4789-a50d-7aa94492def9)
 
 ![image](https://github.com/user-attachments/assets/883db59b-62ae-41f5-89c4-39ebccf3f917)
